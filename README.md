@@ -1,8 +1,8 @@
-Name: Nutan Nandkishor Gaonkar
-ID: CTIS1307
-Domain: Python Programming
-Duration: 26 December 2025 - 23 January 2026
-
+## Name: Nutan Nandkishor Gaonkar
+## ID: CTIS1307
+## Domain: Python Programming
+## Duration: 26 December 2025 - 23 January 2026
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # CODTECH Internship – Task 1
 ## API Integration and Data Visualization
 
