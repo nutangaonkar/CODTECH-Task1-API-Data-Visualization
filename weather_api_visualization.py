@@ -1,7 +1,7 @@
 import requests
 import matplotlib.pyplot as plt
 
-API_KEY = "39be121895fa26b5a2d4b03259f702fb"
+API_KEY = "YOUR_API_KEY"
 
 CITY = "Mumbai"
 
@@ -31,4 +31,5 @@ plt.xticks(rotation=45)
 plt.grid(True)
 plt.tight_layout()
 plt.savefig("output.png")
+
 plt.show()
