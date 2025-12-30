@@ -17,4 +17,4 @@ The output is a line graph showing temperature vs date & time for the next forec
 1. Install dependencies:
    pip install requests matplotlib
 2. Run the script:
-   python weather_visualization.py
+   python weather_api_visualization.py
